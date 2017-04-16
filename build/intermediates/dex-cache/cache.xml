@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0d5016cea4b90d5d25611b4f80f598af2f4474c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/ce4b4e0a41e7be928b163d16e2bd82cc3e6715fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43ee88b4de9d04900683aca9f17799afa36350e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/ec38586e8d520c973a0805d44e747b785b759def/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f73e02badf8404a0c3bab95d94ec28ebe9467210">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43074c7e25c141ed375fe3bb1967503c331cae77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/74a983e912594604c7711b2a6eb82818b3542231/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da3550e7b0369abd4dc350fcf07d1f203a15dc01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/f6c89a4b7681de1d07f5b094a52964745679e706/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_111a31242c73544ba706afc8d1b083bcd3b7436f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/ee622f70e2f9fe936208c32a606e92e947ffe780/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b5626d202f53bfff88c3119c51b05e03161cfe2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/e4fe540edb4d2cdce6445eb3a155bea748c5048f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af76c71c7038ee2079b2a1234a52011d292f8e40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/2f9d9c553cd9861fc290c84af4f49a2c40241493/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_caa9d70f426dc2607c1f81f0a74008ce1762c4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/59c9d2d2328ebc6b32e92eb741d8098b6d7631a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1103c73e1f4454561f8d4c44e1e06b2295287ed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_2e3707c2f92bbe4a24acae28bba38ebe170ce92c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/3dc1c146267f13957a4301483cfac6ffdb347501/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b38ae3cba1adab9eb38d15757eeaddc395e8f227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/9f9d88a63e0c0a22d835110dd5fee02a5da66d43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8721a28c43bb999e227c93c092c8a0eaa19890c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/050cc4237dcab95f2a0774e87c05a88beb3068a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e17014a7da450dcd6a51204daaa15891f88abf09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/79a94e31d67679203f908a385443f31412860a23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f59ff7c5999e7bdc4fda416c153ab03cd853f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/f283867d63b040c15634eb6663e0231a29aa2508/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d00981db16e297a76c95aba4372d200b1e2420d2">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c170cf0fe482d8762db0118c03af785ccc0e151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/dcae467ca7d383a640b00a836b0d424555653637/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9629841bdbdfdd9255485b4af9f8dcd51e99218d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6efb9bf4406696ea19f200ef7bd872067432b583">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d4f3782f130c43f27451eacc7aecaf7da0c801e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/90874c54906a10efc194c9fb0378caa363c4cba1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71c3be36fc440dea96d95a63040e7a6afb310d5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/20264346aa1366b3045d41fad29365268109d850/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="599391252c9619b99dbc5cea5685da204a07f03c">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_198897ab0a6731d9e96c4afcffa48307bc95e039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_6d8148271c11ad07f95ec6359d791e83cc66603e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/ccd98f7b9772727e7c2a2b1d44ba6b2b64b04ff3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f393ba16cb12a4797191ad798f2e00e58f1e628a">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2f7fe8ebe27b749e3c5529c95385d7148ad97a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/fd76bf69b054ed427128afb999cda979aea89bfd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b84e6fdba037e76f5f6ef825ce7663da91cec454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_fbf179acade880a5511ba6b08f1c3a6e6e0e312d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.1.0/5110f05deac8f15244897b3f70e9ce413468771d/protobuf-javanano-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-javanano-3.1.0_a4c5dd4a73b14847070423de736f1c62897d18ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/ea0906469f9bd066fb04818262a8e32c44b49c7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f387fdac788a0e4ff097c8f94415dbdf0bc462c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/winstonsazmita/.android/build-cache/734293f20cd0ccc08e5ec64e4b5d4adaac29a22a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/winstonsazmita/AndroidStudioProjects/VrProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f40cf2c8977203406812ac4c1936bce06d438cd/classes.dex" />
+    </item>
+
+</items>
